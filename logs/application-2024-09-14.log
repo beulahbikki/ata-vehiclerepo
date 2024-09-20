@@ -1,0 +1,202 @@
+2024-09-14 23:50:41 - Starting VehicleServiceApplication using Java 17.0.7 with PID 27412 (C:\Users\BBUELARA\Downloads\vehicle-service\vehicle-service\target\classes started by bbuelara in C:\Users\BBUELARA\Downloads\vehicle-service\vehicle-service)
+2024-09-14 23:50:41 - No active profile set, falling back to 1 default profile: "default"
+2024-09-14 23:50:42 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-14 23:50:42 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-14 23:50:45 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-09-14 23:50:45 - Finished Spring Data repository scanning in 750 ms. Found 1 JPA repository interface.
+2024-09-14 23:50:46 - BeanFactory id=352d8dd9-b2e3-30d4-b2aa-ed88d4834977
+2024-09-14 23:50:47 - Bean 'org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig' of type [org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [lbRestClientPostProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2024-09-14 23:50:47 - Bean 'deferringLoadBalancerInterceptor' of type [org.springframework.cloud.client.loadbalancer.DeferringLoadBalancerInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected into a currently created BeanPostProcessor [lbRestClientPostProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies.
+2024-09-14 23:50:48 - Tomcat initialized with port 9128 (http)
+2024-09-14 23:50:48 - Initializing ProtocolHandler ["http-nio-9128"]
+2024-09-14 23:50:48 - Starting service [Tomcat]
+2024-09-14 23:50:48 - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-14 23:50:48 - Initializing Spring embedded WebApplicationContext
+2024-09-14 23:50:48 - Root WebApplicationContext: initialization completed in 6839 ms
+2024-09-14 23:50:49 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-09-14 23:50:49 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-09-14 23:50:49 - HHH000026: Second-level cache disabled
+2024-09-14 23:50:50 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-09-14 23:50:50 - HikariPool-1 - Starting...
+2024-09-14 23:50:51 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@553b6fa0
+2024-09-14 23:50:51 - HikariPool-1 - Start completed.
+2024-09-14 23:50:51 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-09-14 23:50:52 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-09-14 23:50:52 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-09-14 23:50:53 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-09-14 23:50:56 - Unable to start LiveReload server
+2024-09-14 23:50:56 - Eureka HTTP Client uses RestTemplate.
+2024-09-14 23:50:56 - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-09-14 23:50:57 - Exposing 1 endpoint beneath base path '/actuator'
+2024-09-14 23:50:57 - Setting initial instance status as: STARTING
+2024-09-14 23:50:57 - Initializing Eureka in region us-east-1
+2024-09-14 23:50:57 - Resolving eureka endpoints via configuration
+2024-09-14 23:50:57 - Disable delta property : false
+2024-09-14 23:50:57 - Single vip registry refresh property : null
+2024-09-14 23:50:57 - Force full registry fetch : false
+2024-09-14 23:50:57 - Application is null : false
+2024-09-14 23:50:57 - Registered Applications size is zero : true
+2024-09-14 23:50:57 - Application version is -1: true
+2024-09-14 23:50:57 - Getting all instance registry info from the eureka server
+2024-09-14 23:50:58 - The response status is 200
+2024-09-14 23:50:58 - Starting heartbeat executor: renew interval is: 30
+2024-09-14 23:50:58 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-09-14 23:50:58 - Discovery Client initialized at timestamp 1726338058157 with initial instances count: 4
+2024-09-14 23:50:58 - Registering application VEHICLE-SERVICE with eureka with status UP
+2024-09-14 23:50:58 - Saw local status change event StatusChangeEvent [timestamp=1726338058175, current=UP, previous=STARTING]
+2024-09-14 23:50:58 - Starting ProtocolHandler ["http-nio-9128"]
+2024-09-14 23:50:58 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128: registering service...
+2024-09-14 23:50:58 - Tomcat started on port 9128 (http) with context path '/'
+2024-09-14 23:50:58 - Updating port to 9128
+2024-09-14 23:50:58 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - registration status: 204
+2024-09-14 23:50:58 - Started VehicleServiceApplication in 18.265 seconds (process running for 19.979)
+2024-09-14 23:50:59 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-14 23:50:59 - Initializing Servlet 'dispatcherServlet'
+2024-09-14 23:50:59 - Completed initialization in 4 ms
+2024-09-14 23:51:04 - Starting VehicleServiceApplication using Java 17.0.7 with PID 19240 (C:\Users\BBUELARA\Downloads\vehicle-service\vehicle-service\target\classes started by bbuelara in C:\Users\BBUELARA\Downloads\vehicle-service\vehicle-service)
+2024-09-14 23:51:04 - No active profile set, falling back to 1 default profile: "default"
+2024-09-14 23:51:04 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-14 23:51:04 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-14 23:51:06 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-09-14 23:51:06 - Finished Spring Data repository scanning in 178 ms. Found 1 JPA repository interface.
+2024-09-14 23:51:06 - BeanFactory id=352d8dd9-b2e3-30d4-b2aa-ed88d4834977
+2024-09-14 23:51:07 - Bean 'org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig' of type [org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [lbRestClientPostProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2024-09-14 23:51:07 - Bean 'deferringLoadBalancerInterceptor' of type [org.springframework.cloud.client.loadbalancer.DeferringLoadBalancerInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected into a currently created BeanPostProcessor [lbRestClientPostProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies.
+2024-09-14 23:51:07 - Tomcat initialized with port 9128 (http)
+2024-09-14 23:51:07 - Initializing ProtocolHandler ["http-nio-9128"]
+2024-09-14 23:51:07 - Starting service [Tomcat]
+2024-09-14 23:51:07 - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-14 23:51:08 - Initializing Spring embedded WebApplicationContext
+2024-09-14 23:51:08 - Root WebApplicationContext: initialization completed in 3080 ms
+2024-09-14 23:51:08 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-09-14 23:51:08 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-09-14 23:51:08 - HHH000026: Second-level cache disabled
+2024-09-14 23:51:08 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-09-14 23:51:08 - HikariPool-1 - Starting...
+2024-09-14 23:51:09 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6e323769
+2024-09-14 23:51:09 - HikariPool-1 - Start completed.
+2024-09-14 23:51:09 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-09-14 23:51:10 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-09-14 23:51:10 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-09-14 23:51:11 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-09-14 23:51:12 - Unable to start LiveReload server
+2024-09-14 23:51:12 - Eureka HTTP Client uses RestTemplate.
+2024-09-14 23:51:12 - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-09-14 23:51:12 - Exposing 1 endpoint beneath base path '/actuator'
+2024-09-14 23:51:12 - Setting initial instance status as: STARTING
+2024-09-14 23:51:12 - Initializing Eureka in region us-east-1
+2024-09-14 23:51:12 - Resolving eureka endpoints via configuration
+2024-09-14 23:51:12 - Disable delta property : false
+2024-09-14 23:51:12 - Single vip registry refresh property : null
+2024-09-14 23:51:12 - Force full registry fetch : false
+2024-09-14 23:51:12 - Application is null : false
+2024-09-14 23:51:12 - Registered Applications size is zero : true
+2024-09-14 23:51:12 - Application version is -1: true
+2024-09-14 23:51:12 - Getting all instance registry info from the eureka server
+2024-09-14 23:51:13 - The response status is 200
+2024-09-14 23:51:13 - Starting heartbeat executor: renew interval is: 30
+2024-09-14 23:51:13 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-09-14 23:51:13 - Discovery Client initialized at timestamp 1726338073441 with initial instances count: 6
+2024-09-14 23:51:13 - Registering application VEHICLE-SERVICE with eureka with status UP
+2024-09-14 23:51:13 - Saw local status change event StatusChangeEvent [timestamp=1726338073449, current=UP, previous=STARTING]
+2024-09-14 23:51:13 - Starting ProtocolHandler ["http-nio-9128"]
+2024-09-14 23:51:13 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128: registering service...
+2024-09-14 23:51:13 - Unregistering application VEHICLE-SERVICE with eureka with status DOWN
+2024-09-14 23:51:13 - Saw local status change event StatusChangeEvent [timestamp=1726338073466, current=DOWN, previous=UP]
+2024-09-14 23:51:13 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-09-14 23:51:13 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-09-14 23:51:13 - HikariPool-1 - Shutdown initiated...
+2024-09-14 23:51:13 - HikariPool-1 - Shutdown completed.
+2024-09-14 23:51:13 - Shutting down DiscoveryClient ...
+2024-09-14 23:51:13 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - registration status: 204
+2024-09-14 23:51:13 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128: registering service...
+2024-09-14 23:51:13 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - registration status: 204
+2024-09-14 23:51:13 - Unregistering ...
+2024-09-14 23:51:13 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - deregister  status: 200
+2024-09-14 23:51:13 - Completed shut down of DiscoveryClient
+2024-09-14 23:51:13 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-09-14 23:51:13 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9128 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9128 or configure this application to listen on another port.
+
+2024-09-14 23:51:13 - Application shutdown requested.
+2024-09-14 23:51:13 - Unregistering application VEHICLE-SERVICE with eureka with status DOWN
+2024-09-14 23:51:13 - Saw local status change event StatusChangeEvent [timestamp=1726338073886, current=DOWN, previous=UP]
+2024-09-14 23:51:13 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128: registering service...
+2024-09-14 23:51:13 - Stopping ProtocolHandler ["http-nio-9128"]
+2024-09-14 23:51:13 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - registration status: 204
+2024-09-14 23:51:14 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-09-14 23:51:14 - HikariPool-1 - Shutdown initiated...
+2024-09-14 23:51:14 - HikariPool-1 - Shutdown completed.
+2024-09-14 23:51:14 - Shutting down DiscoveryClient ...
+2024-09-14 23:51:17 - Unregistering ...
+2024-09-14 23:51:17 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - deregister  status: 200
+2024-09-14 23:51:17 - Completed shut down of DiscoveryClient
+2024-09-14 23:51:43 - Starting VehicleServiceApplication using Java 17.0.7 with PID 22364 (C:\Users\BBUELARA\Downloads\vehicle-service\vehicle-service\target\classes started by bbuelara in C:\Users\BBUELARA\Downloads\vehicle-service\vehicle-service)
+2024-09-14 23:51:43 - No active profile set, falling back to 1 default profile: "default"
+2024-09-14 23:51:43 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-14 23:51:43 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-14 23:51:44 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-09-14 23:51:45 - Finished Spring Data repository scanning in 163 ms. Found 1 JPA repository interface.
+2024-09-14 23:51:45 - BeanFactory id=352d8dd9-b2e3-30d4-b2aa-ed88d4834977
+2024-09-14 23:51:45 - Bean 'org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig' of type [org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [lbRestClientPostProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2024-09-14 23:51:45 - Bean 'deferringLoadBalancerInterceptor' of type [org.springframework.cloud.client.loadbalancer.DeferringLoadBalancerInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected into a currently created BeanPostProcessor [lbRestClientPostProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies.
+2024-09-14 23:51:46 - Tomcat initialized with port 9128 (http)
+2024-09-14 23:51:46 - Initializing ProtocolHandler ["http-nio-9128"]
+2024-09-14 23:51:46 - Starting service [Tomcat]
+2024-09-14 23:51:46 - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-14 23:51:46 - Initializing Spring embedded WebApplicationContext
+2024-09-14 23:51:46 - Root WebApplicationContext: initialization completed in 2395 ms
+2024-09-14 23:51:46 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-09-14 23:51:46 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-09-14 23:51:46 - HHH000026: Second-level cache disabled
+2024-09-14 23:51:47 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-09-14 23:51:47 - HikariPool-1 - Starting...
+2024-09-14 23:51:47 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@68ab6ac9
+2024-09-14 23:51:47 - HikariPool-1 - Start completed.
+2024-09-14 23:51:47 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-09-14 23:51:49 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-09-14 23:51:49 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-09-14 23:51:49 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-09-14 23:51:51 - Unable to start LiveReload server
+2024-09-14 23:51:52 - Eureka HTTP Client uses RestTemplate.
+2024-09-14 23:51:52 - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-09-14 23:51:52 - Exposing 1 endpoint beneath base path '/actuator'
+2024-09-14 23:51:52 - Setting initial instance status as: STARTING
+2024-09-14 23:51:52 - Initializing Eureka in region us-east-1
+2024-09-14 23:51:52 - Resolving eureka endpoints via configuration
+2024-09-14 23:51:53 - Disable delta property : false
+2024-09-14 23:51:53 - Single vip registry refresh property : null
+2024-09-14 23:51:53 - Force full registry fetch : false
+2024-09-14 23:51:53 - Application is null : false
+2024-09-14 23:51:53 - Registered Applications size is zero : true
+2024-09-14 23:51:53 - Application version is -1: true
+2024-09-14 23:51:53 - Getting all instance registry info from the eureka server
+2024-09-14 23:51:54 - The response status is 200
+2024-09-14 23:51:54 - Starting heartbeat executor: renew interval is: 30
+2024-09-14 23:51:54 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-09-14 23:51:54 - Discovery Client initialized at timestamp 1726338114040 with initial instances count: 5
+2024-09-14 23:51:54 - Registering application VEHICLE-SERVICE with eureka with status UP
+2024-09-14 23:51:54 - Saw local status change event StatusChangeEvent [timestamp=1726338114058, current=UP, previous=STARTING]
+2024-09-14 23:51:54 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128: registering service...
+2024-09-14 23:51:54 - Starting ProtocolHandler ["http-nio-9128"]
+2024-09-14 23:51:54 - Tomcat started on port 9128 (http) with context path '/'
+2024-09-14 23:51:54 - Updating port to 9128
+2024-09-14 23:51:54 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - registration status: 204
+2024-09-14 23:51:54 - Started VehicleServiceApplication in 11.545 seconds (process running for 12.538)
+2024-09-14 23:51:55 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-14 23:51:55 - Initializing Servlet 'dispatcherServlet'
+2024-09-14 23:51:55 - Completed initialization in 4 ms
+2024-09-14 23:57:12 - Resolving eureka endpoints via configuration

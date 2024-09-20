@@ -1,0 +1,242 @@
+2024-09-17 03:56:02 - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=5h41m39s496ms211µs800ns).
+2024-09-17 08:48:17 - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=4h52m25s188ms809µs300ns).
+2024-09-17 08:49:47 - Resolving eureka endpoints via configuration
+2024-09-17 08:54:47 - Resolving eureka endpoints via configuration
+2024-09-17 08:59:47 - Resolving eureka endpoints via configuration
+2024-09-17 09:04:47 - Resolving eureka endpoints via configuration
+2024-09-17 09:09:47 - Resolving eureka endpoints via configuration
+2024-09-17 09:14:47 - Resolving eureka endpoints via configuration
+2024-09-17 09:19:47 - Resolving eureka endpoints via configuration
+2024-09-17 09:38:56 - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=16m48s449ms307µs900ns).
+2024-09-17 09:40:55 - Resolving eureka endpoints via configuration
+2024-09-17 09:45:56 - Resolving eureka endpoints via configuration
+2024-09-17 09:50:56 - Resolving eureka endpoints via configuration
+2024-09-17 09:55:56 - Resolving eureka endpoints via configuration
+2024-09-17 10:00:56 - Resolving eureka endpoints via configuration
+2024-09-17 10:05:56 - Resolving eureka endpoints via configuration
+2024-09-17 10:10:56 - Resolving eureka endpoints via configuration
+2024-09-17 10:15:56 - Resolving eureka endpoints via configuration
+2024-09-17 10:20:56 - Resolving eureka endpoints via configuration
+2024-09-17 10:25:56 - Resolving eureka endpoints via configuration
+2024-09-17 10:30:56 - Resolving eureka endpoints via configuration
+2024-09-17 10:35:56 - Resolving eureka endpoints via configuration
+2024-09-17 10:40:56 - Resolving eureka endpoints via configuration
+2024-09-17 10:45:56 - Resolving eureka endpoints via configuration
+2024-09-17 10:50:56 - Resolving eureka endpoints via configuration
+2024-09-17 10:55:56 - Resolving eureka endpoints via configuration
+2024-09-17 11:00:56 - Resolving eureka endpoints via configuration
+2024-09-17 11:05:56 - Resolving eureka endpoints via configuration
+2024-09-17 11:10:56 - Resolving eureka endpoints via configuration
+2024-09-17 11:15:56 - Resolving eureka endpoints via configuration
+2024-09-17 11:35:37 - Starting VehicleServiceApplicationTests using Java 17.0.7 with PID 14392 (started by bbuelara in C:\Users\BBUELARA\Downloads\vehicle-service\vehicle-service)
+2024-09-17 11:35:37 - No active profile set, falling back to 1 default profile: "default"
+2024-09-17 11:35:38 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-09-17 11:35:38 - Finished Spring Data repository scanning in 163 ms. Found 1 JPA repository interface.
+2024-09-17 11:35:39 - BeanFactory id=0510d0fe-48b3-3665-8a79-48f78d7391f0
+2024-09-17 11:35:39 - Bean 'org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig' of type [org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [lbRestClientPostProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2024-09-17 11:35:39 - Bean 'deferringLoadBalancerInterceptor' of type [org.springframework.cloud.client.loadbalancer.DeferringLoadBalancerInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected into a currently created BeanPostProcessor [lbRestClientPostProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies.
+2024-09-17 11:35:39 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-09-17 11:35:39 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-09-17 11:35:39 - HHH000026: Second-level cache disabled
+2024-09-17 11:35:39 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-09-17 11:35:40 - HikariPool-1 - Starting...
+2024-09-17 11:35:40 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@13346a64
+2024-09-17 11:35:40 - HikariPool-1 - Start completed.
+2024-09-17 11:35:40 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-09-17 11:35:41 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-09-17 11:35:41 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-09-17 11:35:41 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-09-17 11:35:43 - Eureka HTTP Client uses RestTemplate.
+2024-09-17 11:35:43 - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-09-17 11:35:43 - Exposing 1 endpoint beneath base path '/actuator'
+2024-09-17 11:35:43 - Setting initial instance status as: STARTING
+2024-09-17 11:35:43 - Initializing Eureka in region us-east-1
+2024-09-17 11:35:43 - Resolving eureka endpoints via configuration
+2024-09-17 11:35:43 - Disable delta property : false
+2024-09-17 11:35:43 - Single vip registry refresh property : null
+2024-09-17 11:35:43 - Force full registry fetch : false
+2024-09-17 11:35:43 - Application is null : false
+2024-09-17 11:35:43 - Registered Applications size is zero : true
+2024-09-17 11:35:43 - Application version is -1: true
+2024-09-17 11:35:43 - Getting all instance registry info from the eureka server
+2024-09-17 11:35:43 - The response status is 200
+2024-09-17 11:35:43 - Starting heartbeat executor: renew interval is: 30
+2024-09-17 11:35:43 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-09-17 11:35:43 - Discovery Client initialized at timestamp 1726553143809 with initial instances count: 1
+2024-09-17 11:35:43 - Registering application VEHICLE-SERVICE with eureka with status UP
+2024-09-17 11:35:43 - Saw local status change event StatusChangeEvent [timestamp=1726553143817, current=UP, previous=STARTING]
+2024-09-17 11:35:43 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128: registering service...
+2024-09-17 11:35:43 - Started VehicleServiceApplicationTests in 6.953 seconds (process running for 9.899)
+2024-09-17 11:35:43 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - registration status: 204
+2024-09-17 11:35:44 - Request to delete vehicle with id: 1
+2024-09-17 11:35:44 - Vehicle deleted with id: 1
+2024-09-17 11:35:44 - Request to get vehicle with id: 1
+2024-09-17 11:35:44 - Vehicle found: VehicleEntity(id=null, model=null, licensePlate=null, capacity=0)
+2024-09-17 11:35:44 - Request to get all vehicles
+2024-09-17 11:35:44 - No vehicles found
+2024-09-17 11:35:44 - Request to create vehicle: VehicleEntity(id=null, model=null, licensePlate=null, capacity=0)
+2024-09-17 11:35:44 - Vehicle created: VehicleEntity(id=null, model=null, licensePlate=null, capacity=0)
+2024-09-17 11:35:44 - Request to get all vehicles
+2024-09-17 11:35:44 - Vehicles found: [VehicleEntity(id=null, model=null, licensePlate=null, capacity=0)]
+2024-09-17 11:35:44 - Unregistering application VEHICLE-SERVICE with eureka with status DOWN
+2024-09-17 11:35:44 - Saw local status change event StatusChangeEvent [timestamp=1726553144027, current=DOWN, previous=UP]
+2024-09-17 11:35:44 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128: registering service...
+2024-09-17 11:35:44 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - registration status: 204
+2024-09-17 11:35:44 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-09-17 11:35:44 - HikariPool-1 - Shutdown initiated...
+2024-09-17 11:35:44 - HikariPool-1 - Shutdown completed.
+2024-09-17 11:35:44 - Shutting down DiscoveryClient ...
+2024-09-17 11:35:47 - Unregistering ...
+2024-09-17 11:35:47 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - deregister  status: 200
+2024-09-17 11:35:47 - Completed shut down of DiscoveryClient
+2024-09-17 11:37:51 - Starting VehicleServiceApplication using Java 17.0.7 with PID 18840 (C:\Users\BBUELARA\Downloads\vehicle-service\vehicle-service\target\classes started by bbuelara in C:\Users\BBUELARA\Downloads\vehicle-service\vehicle-service)
+2024-09-17 11:37:51 - No active profile set, falling back to 1 default profile: "default"
+2024-09-17 11:37:51 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-17 11:37:51 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-17 11:37:52 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-09-17 11:37:52 - Finished Spring Data repository scanning in 107 ms. Found 1 JPA repository interface.
+2024-09-17 11:37:52 - BeanFactory id=352d8dd9-b2e3-30d4-b2aa-ed88d4834977
+2024-09-17 11:37:53 - Bean 'org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig' of type [org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [lbRestClientPostProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2024-09-17 11:37:53 - Bean 'deferringLoadBalancerInterceptor' of type [org.springframework.cloud.client.loadbalancer.DeferringLoadBalancerInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected into a currently created BeanPostProcessor [lbRestClientPostProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies.
+2024-09-17 11:37:53 - Tomcat initialized with port 9128 (http)
+2024-09-17 11:37:53 - Initializing ProtocolHandler ["http-nio-9128"]
+2024-09-17 11:37:53 - Starting service [Tomcat]
+2024-09-17 11:37:53 - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-17 11:37:53 - Initializing Spring embedded WebApplicationContext
+2024-09-17 11:37:53 - Root WebApplicationContext: initialization completed in 1806 ms
+2024-09-17 11:37:53 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-09-17 11:37:53 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-09-17 11:37:53 - HHH000026: Second-level cache disabled
+2024-09-17 11:37:54 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-09-17 11:37:54 - HikariPool-1 - Starting...
+2024-09-17 11:37:54 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@74c55738
+2024-09-17 11:37:54 - HikariPool-1 - Start completed.
+2024-09-17 11:37:54 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-09-17 11:37:55 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-09-17 11:37:55 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-09-17 11:37:55 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-09-17 11:37:56 - Unable to start LiveReload server
+2024-09-17 11:37:56 - Eureka HTTP Client uses RestTemplate.
+2024-09-17 11:37:56 - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-09-17 11:37:56 - Exposing 1 endpoint beneath base path '/actuator'
+2024-09-17 11:37:56 - Setting initial instance status as: STARTING
+2024-09-17 11:37:56 - Initializing Eureka in region us-east-1
+2024-09-17 11:37:56 - Resolving eureka endpoints via configuration
+2024-09-17 11:37:56 - Disable delta property : false
+2024-09-17 11:37:56 - Single vip registry refresh property : null
+2024-09-17 11:37:56 - Force full registry fetch : false
+2024-09-17 11:37:56 - Application is null : false
+2024-09-17 11:37:56 - Registered Applications size is zero : true
+2024-09-17 11:37:56 - Application version is -1: true
+2024-09-17 11:37:56 - Getting all instance registry info from the eureka server
+2024-09-17 11:37:56 - The response status is 200
+2024-09-17 11:37:56 - Starting heartbeat executor: renew interval is: 30
+2024-09-17 11:37:56 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-09-17 11:37:56 - Discovery Client initialized at timestamp 1726553276829 with initial instances count: 4
+2024-09-17 11:37:56 - Registering application VEHICLE-SERVICE with eureka with status UP
+2024-09-17 11:37:56 - Saw local status change event StatusChangeEvent [timestamp=1726553276836, current=UP, previous=STARTING]
+2024-09-17 11:37:56 - Starting ProtocolHandler ["http-nio-9128"]
+2024-09-17 11:37:56 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128: registering service...
+2024-09-17 11:37:56 - Tomcat started on port 9128 (http) with context path '/'
+2024-09-17 11:37:56 - Updating port to 9128
+2024-09-17 11:37:56 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - registration status: 204
+2024-09-17 11:37:57 - Started VehicleServiceApplication in 5.802 seconds (process running for 6.674)
+2024-09-17 11:37:57 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-17 11:37:57 - Initializing Servlet 'dispatcherServlet'
+2024-09-17 11:37:57 - Completed initialization in 1 ms
+2024-09-17 11:42:32 - Starting VehicleServiceApplicationTests using Java 17.0.7 with PID 3112 (started by bbuelara in C:\Users\BBUELARA\Downloads\vehicle-service\vehicle-service)
+2024-09-17 11:42:32 - No active profile set, falling back to 1 default profile: "default"
+2024-09-17 11:42:33 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-09-17 11:42:33 - Finished Spring Data repository scanning in 221 ms. Found 1 JPA repository interface.
+2024-09-17 11:42:34 - BeanFactory id=0510d0fe-48b3-3665-8a79-48f78d7391f0
+2024-09-17 11:42:34 - Bean 'org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig' of type [org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [lbRestClientPostProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2024-09-17 11:42:34 - Bean 'deferringLoadBalancerInterceptor' of type [org.springframework.cloud.client.loadbalancer.DeferringLoadBalancerInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected into a currently created BeanPostProcessor [lbRestClientPostProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies.
+2024-09-17 11:42:35 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-09-17 11:42:35 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-09-17 11:42:35 - HHH000026: Second-level cache disabled
+2024-09-17 11:42:35 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-09-17 11:42:35 - HikariPool-1 - Starting...
+2024-09-17 11:42:35 - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@344c2157
+2024-09-17 11:42:35 - HikariPool-1 - Start completed.
+2024-09-17 11:42:36 - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-09-17 11:42:37 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-09-17 11:42:37 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-09-17 11:42:38 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-09-17 11:42:39 - Eureka HTTP Client uses RestTemplate.
+2024-09-17 11:42:39 - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-09-17 11:42:39 - Exposing 1 endpoint beneath base path '/actuator'
+2024-09-17 11:42:39 - Setting initial instance status as: STARTING
+2024-09-17 11:42:39 - Initializing Eureka in region us-east-1
+2024-09-17 11:42:39 - Resolving eureka endpoints via configuration
+2024-09-17 11:42:39 - Disable delta property : false
+2024-09-17 11:42:39 - Single vip registry refresh property : null
+2024-09-17 11:42:39 - Force full registry fetch : false
+2024-09-17 11:42:39 - Application is null : false
+2024-09-17 11:42:39 - Registered Applications size is zero : true
+2024-09-17 11:42:39 - Application version is -1: true
+2024-09-17 11:42:39 - Getting all instance registry info from the eureka server
+2024-09-17 11:42:40 - The response status is 200
+2024-09-17 11:42:40 - Starting heartbeat executor: renew interval is: 30
+2024-09-17 11:42:40 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-09-17 11:42:40 - Discovery Client initialized at timestamp 1726553560407 with initial instances count: 5
+2024-09-17 11:42:40 - Registering application VEHICLE-SERVICE with eureka with status UP
+2024-09-17 11:42:40 - Saw local status change event StatusChangeEvent [timestamp=1726553560415, current=UP, previous=STARTING]
+2024-09-17 11:42:40 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128: registering service...
+2024-09-17 11:42:40 - Started VehicleServiceApplicationTests in 9.457 seconds (process running for 14.487)
+2024-09-17 11:42:40 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - registration status: 204
+2024-09-17 11:42:40 - Request to delete vehicle with id: 1
+2024-09-17 11:42:40 - Vehicle deleted with id: 1
+2024-09-17 11:42:40 - Request to get vehicle with id: 1
+2024-09-17 11:42:40 - Vehicle found: VehicleEntity(id=null, model=null, licensePlate=null, capacity=0)
+2024-09-17 11:42:40 - Request to get all vehicles
+2024-09-17 11:42:40 - No vehicles found
+2024-09-17 11:42:40 - Request to create vehicle: VehicleEntity(id=null, model=null, licensePlate=null, capacity=0)
+2024-09-17 11:42:40 - Vehicle created: VehicleEntity(id=null, model=null, licensePlate=null, capacity=0)
+2024-09-17 11:42:40 - Request to get all vehicles
+2024-09-17 11:42:40 - Vehicles found: [VehicleEntity(id=null, model=null, licensePlate=null, capacity=0)]
+2024-09-17 11:42:42 - Unregistering application VEHICLE-SERVICE with eureka with status DOWN
+2024-09-17 11:42:42 - Saw local status change event StatusChangeEvent [timestamp=1726553562020, current=DOWN, previous=UP]
+2024-09-17 11:42:42 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128: registering service...
+2024-09-17 11:42:42 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - registration status: 204
+2024-09-17 11:42:42 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-09-17 11:42:42 - HikariPool-1 - Shutdown initiated...
+2024-09-17 11:42:42 - HikariPool-1 - Shutdown completed.
+2024-09-17 11:42:42 - Shutting down DiscoveryClient ...
+2024-09-17 11:42:45 - Unregistering ...
+2024-09-17 11:42:45 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - deregister  status: 200
+2024-09-17 11:42:45 - Completed shut down of DiscoveryClient
+2024-09-17 11:42:56 - Resolving eureka endpoints via configuration
+2024-09-17 11:42:56 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - Re-registering apps/VEHICLE-SERVICE
+2024-09-17 11:42:56 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128: registering service...
+2024-09-17 11:42:56 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - registration status: 204
+2024-09-17 11:47:56 - Resolving eureka endpoints via configuration
+2024-09-17 11:52:56 - Resolving eureka endpoints via configuration
+2024-09-17 11:57:56 - Resolving eureka endpoints via configuration
+2024-09-17 12:02:56 - Resolving eureka endpoints via configuration
+2024-09-17 12:07:56 - Resolving eureka endpoints via configuration
+2024-09-17 12:12:56 - Resolving eureka endpoints via configuration
+2024-09-17 12:17:56 - Resolving eureka endpoints via configuration
+2024-09-17 12:22:56 - Resolving eureka endpoints via configuration
+2024-09-17 14:52:11 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h25m16s476ms568µs700ns).
+2024-09-17 21:07:28 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6h15m16s531ms177µs).
+2024-09-17 21:07:29 - Resolving eureka endpoints via configuration
+2024-09-17 21:12:29 - Resolving eureka endpoints via configuration
+2024-09-17 21:17:28 - Resolving eureka endpoints via configuration
+2024-09-17 21:22:28 - Resolving eureka endpoints via configuration
+2024-09-17 21:27:28 - Resolving eureka endpoints via configuration
+2024-09-17 21:32:28 - Resolving eureka endpoints via configuration
+2024-09-17 21:37:28 - Resolving eureka endpoints via configuration
+2024-09-17 21:42:28 - Resolving eureka endpoints via configuration
+2024-09-17 21:47:28 - Resolving eureka endpoints via configuration
+2024-09-17 21:52:28 - Resolving eureka endpoints via configuration
+2024-09-17 21:57:28 - Resolving eureka endpoints via configuration
+2024-09-17 22:02:28 - Resolving eureka endpoints via configuration
+2024-09-17 22:07:28 - Resolving eureka endpoints via configuration
+2024-09-17 22:12:28 - Resolving eureka endpoints via configuration
+2024-09-17 22:17:28 - Resolving eureka endpoints via configuration
+2024-09-17 22:22:28 - Resolving eureka endpoints via configuration
+2024-09-17 22:27:28 - Resolving eureka endpoints via configuration
+2024-09-17 22:32:28 - Resolving eureka endpoints via configuration
+2024-09-17 22:37:28 - Resolving eureka endpoints via configuration
+2024-09-17 22:42:28 - Resolving eureka endpoints via configuration
+2024-09-17 22:47:28 - Resolving eureka endpoints via configuration

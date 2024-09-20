@@ -1,0 +1,120 @@
+2024-09-15 07:07:32 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7h10m52s464ms225µs100ns).
+2024-09-15 07:12:08 - Resolving eureka endpoints via configuration
+2024-09-15 07:17:08 - Resolving eureka endpoints via configuration
+2024-09-15 07:22:08 - Resolving eureka endpoints via configuration
+2024-09-15 07:27:08 - Resolving eureka endpoints via configuration
+2024-09-15 07:32:08 - Resolving eureka endpoints via configuration
+2024-09-15 10:52:50 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h19m44s705ms193µs200ns).
+2024-09-15 11:48:22 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=55m12s368ms262µs600ns).
+2024-09-15 11:50:54 - Resolving eureka endpoints via configuration
+2024-09-15 11:55:54 - Resolving eureka endpoints via configuration
+2024-09-15 12:00:54 - Resolving eureka endpoints via configuration
+2024-09-15 12:05:54 - Resolving eureka endpoints via configuration
+2024-09-15 12:10:54 - Resolving eureka endpoints via configuration
+2024-09-15 12:15:54 - Resolving eureka endpoints via configuration
+2024-09-15 12:20:54 - Resolving eureka endpoints via configuration
+2024-09-15 12:25:54 - Resolving eureka endpoints via configuration
+2024-09-15 12:30:54 - Resolving eureka endpoints via configuration
+2024-09-15 12:35:54 - Resolving eureka endpoints via configuration
+2024-09-15 12:40:54 - Resolving eureka endpoints via configuration
+2024-09-15 12:45:54 - Resolving eureka endpoints via configuration
+2024-09-15 12:50:54 - Resolving eureka endpoints via configuration
+2024-09-15 12:55:54 - Resolving eureka endpoints via configuration
+2024-09-15 13:00:54 - Resolving eureka endpoints via configuration
+2024-09-15 13:05:54 - Resolving eureka endpoints via configuration
+2024-09-15 13:10:54 - Resolving eureka endpoints via configuration
+2024-09-15 13:15:54 - Resolving eureka endpoints via configuration
+2024-09-15 13:20:54 - Resolving eureka endpoints via configuration
+2024-09-15 13:25:54 - Resolving eureka endpoints via configuration
+2024-09-15 13:30:54 - Resolving eureka endpoints via configuration
+2024-09-15 13:35:54 - Resolving eureka endpoints via configuration
+2024-09-15 13:40:54 - Resolving eureka endpoints via configuration
+2024-09-15 13:45:54 - Resolving eureka endpoints via configuration
+2024-09-15 13:50:54 - Resolving eureka endpoints via configuration
+2024-09-15 13:55:54 - Resolving eureka endpoints via configuration
+2024-09-15 14:00:54 - Resolving eureka endpoints via configuration
+2024-09-15 14:05:54 - Resolving eureka endpoints via configuration
+2024-09-15 14:10:54 - Resolving eureka endpoints via configuration
+2024-09-15 14:15:54 - Resolving eureka endpoints via configuration
+2024-09-15 14:20:54 - Resolving eureka endpoints via configuration
+2024-09-15 14:25:54 - Resolving eureka endpoints via configuration
+2024-09-15 14:30:54 - Resolving eureka endpoints via configuration
+2024-09-15 14:35:54 - Resolving eureka endpoints via configuration
+2024-09-15 14:40:54 - Resolving eureka endpoints via configuration
+2024-09-15 14:45:54 - Resolving eureka endpoints via configuration
+2024-09-15 14:50:54 - Resolving eureka endpoints via configuration
+2024-09-15 14:55:54 - Resolving eureka endpoints via configuration
+2024-09-15 15:00:54 - Resolving eureka endpoints via configuration
+2024-09-15 15:05:54 - Resolving eureka endpoints via configuration
+2024-09-15 15:10:54 - Resolving eureka endpoints via configuration
+2024-09-15 15:15:54 - Resolving eureka endpoints via configuration
+2024-09-15 15:20:54 - Resolving eureka endpoints via configuration
+2024-09-15 15:25:54 - Resolving eureka endpoints via configuration
+2024-09-15 15:30:54 - Resolving eureka endpoints via configuration
+2024-09-15 15:35:54 - Resolving eureka endpoints via configuration
+2024-09-15 15:40:54 - Resolving eureka endpoints via configuration
+2024-09-15 15:45:54 - Resolving eureka endpoints via configuration
+2024-09-15 15:50:54 - Resolving eureka endpoints via configuration
+2024-09-15 15:55:54 - Resolving eureka endpoints via configuration
+2024-09-15 16:00:54 - Resolving eureka endpoints via configuration
+2024-09-15 16:05:54 - Resolving eureka endpoints via configuration
+2024-09-15 16:10:54 - Resolving eureka endpoints via configuration
+2024-09-15 16:15:54 - Resolving eureka endpoints via configuration
+2024-09-15 16:20:54 - Resolving eureka endpoints via configuration
+2024-09-15 16:25:54 - Resolving eureka endpoints via configuration
+2024-09-15 16:30:54 - Resolving eureka endpoints via configuration
+2024-09-15 16:35:54 - Resolving eureka endpoints via configuration
+2024-09-15 16:40:54 - Resolving eureka endpoints via configuration
+2024-09-15 16:45:54 - Resolving eureka endpoints via configuration
+2024-09-15 16:50:54 - Resolving eureka endpoints via configuration
+2024-09-15 16:55:54 - Resolving eureka endpoints via configuration
+2024-09-15 17:00:54 - Resolving eureka endpoints via configuration
+2024-09-15 17:05:54 - Resolving eureka endpoints via configuration
+2024-09-15 17:10:54 - Resolving eureka endpoints via configuration
+2024-09-15 17:15:54 - Resolving eureka endpoints via configuration
+2024-09-15 17:20:54 - Resolving eureka endpoints via configuration
+2024-09-15 17:25:54 - Resolving eureka endpoints via configuration
+2024-09-15 17:30:54 - Resolving eureka endpoints via configuration
+2024-09-15 17:35:54 - Resolving eureka endpoints via configuration
+2024-09-15 17:40:54 - Resolving eureka endpoints via configuration
+2024-09-15 17:45:54 - Resolving eureka endpoints via configuration
+2024-09-15 17:50:54 - Resolving eureka endpoints via configuration
+2024-09-15 17:55:54 - Resolving eureka endpoints via configuration
+2024-09-15 18:00:54 - Resolving eureka endpoints via configuration
+2024-09-15 18:05:54 - Resolving eureka endpoints via configuration
+2024-09-15 18:10:54 - Resolving eureka endpoints via configuration
+2024-09-15 18:15:54 - Resolving eureka endpoints via configuration
+2024-09-15 18:20:54 - Resolving eureka endpoints via configuration
+2024-09-15 18:25:54 - Resolving eureka endpoints via configuration
+2024-09-15 18:30:34 - Application shutdown requested.
+2024-09-15 18:30:34 - Unregistering application VEHICLE-SERVICE with eureka with status DOWN
+2024-09-15 18:30:34 - Saw local status change event StatusChangeEvent [timestamp=1726405234758, current=DOWN, previous=UP]
+2024-09-15 18:30:34 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128: registering service...
+2024-09-15 18:30:34 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - registration status: 204
+2024-09-15 18:30:34 - Stopping ProtocolHandler ["http-nio-9128"]
+2024-09-15 18:30:35 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-09-15 18:30:35 - HikariPool-1 - Shutdown initiated...
+2024-09-15 18:30:35 - HikariPool-1 - Shutdown completed.
+2024-09-15 18:30:35 - Shutting down DiscoveryClient ...
+2024-09-15 18:30:38 - Unregistering ...
+2024-09-15 18:30:38 - task supervisor shutting down, can't accept the task
+2024-09-15 18:30:38 - DiscoveryClient_VEHICLE-SERVICE/INLEN8520037347.corp.capgemini.com:vehicle-service:9128 - deregister  status: 200
+2024-09-15 18:30:38 - Completed shut down of DiscoveryClient
+2024-09-15 18:31:12 - Starting VehicleServiceApplication using Java 17.0.7 with PID 1580 (C:\Users\BBUELARA\Downloads\vehicle-service\vehicle-service\target\classes started by bbuelara in C:\Users\BBUELARA\Downloads\vehicle-service\vehicle-service)
+2024-09-15 18:31:12 - No active profile set, falling back to 1 default profile: "default"
+2024-09-15 18:31:12 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-15 18:31:12 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-15 18:31:13 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-09-15 18:31:14 - Finished Spring Data repository scanning in 236 ms. Found 1 JPA repository interface.
+2024-09-15 18:31:14 - BeanFactory id=352d8dd9-b2e3-30d4-b2aa-ed88d4834977
+2024-09-15 18:31:14 - Bean 'org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig' of type [org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$DeferringLoadBalancerInterceptorConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [lbRestClientPostProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2024-09-15 18:31:14 - Bean 'deferringLoadBalancerInterceptor' of type [org.springframework.cloud.client.loadbalancer.DeferringLoadBalancerInterceptor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected into a currently created BeanPostProcessor [lbRestClientPostProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies.
+2024-09-15 18:31:15 - Tomcat initialized with port 9128 (http)
+2024-09-15 18:31:15 - Initializing ProtocolHandler ["http-nio-9128"]
+2024-09-15 18:31:15 - Starting service [Tomcat]
+2024-09-15 18:31:15 - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-15 18:31:15 - Initializing Spring embedded WebApplicationContext
+2024-09-15 18:31:15 - Root WebApplicationContext: initialization completed in 3066 ms
+2024-09-15 18:31:16 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-09-15 18:31:16 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-09-15 18:31:16 - HHH000026: Second-level cache disabled

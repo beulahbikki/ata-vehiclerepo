@@ -1,0 +1,45 @@
+src/main/java/com/ata/VehicleService/vehicle_service/Service/VehicleService.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/ata/VehicleService/vehicle_service/Service/VehicleService.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/Service/VehicleService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/Service/VehicleService.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/Service/VehicleService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/Service/VehicleService.java:12:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/ata/VehicleService/vehicle_service/Service/VehicleService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/Service/VehicleService.java:13:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/ata/VehicleService/vehicle_service/VehicleServiceApplication.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/ata/VehicleService/vehicle_service/VehicleServiceApplication.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/VehicleServiceApplication.java:9:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/main/java/com/ata/VehicleService/vehicle_service/VehicleServiceApplication.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/VehicleServiceApplication.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/ata/VehicleService/vehicle_service/exception/ErrorDetails.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/ata/VehicleService/vehicle_service/exception/ErrorDetails.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/exception/ErrorDetails.java:3:	DataClass:	DataClass: The class 'ErrorDetails' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=7)
+src/main/java/com/ata/VehicleService/vehicle_service/exception/ErrorDetails.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/exception/ErrorDetails.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/exception/ErrorDetails.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/exception/ErrorDetails.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/exception/ErrorDetails.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'details' is not assigned and could be declared final
+src/main/java/com/ata/VehicleService/vehicle_service/exception/ErrorDetails.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/ata/VehicleService/vehicle_service/exception/ErrorDetails.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'statusCode' is not assigned and could be declared final
+src/main/java/com/ata/VehicleService/vehicle_service/exception/ErrorDetails.java:20:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'statusCode' is not assigned and could be declared final
+src/main/java/com/ata/VehicleService/vehicle_service/exception/ErrorDetails.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/ata/VehicleService/vehicle_service/exception/ErrorDetails.java:36:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'details' is not assigned and could be declared final
+src/main/java/com/ata/VehicleService/vehicle_service/exception/VehicleNotFoundException.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/ata/VehicleService/vehicle_service/exception/VehicleNotFoundException.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/exception/VehicleNotFoundException.java:3:	MissingSerialVersionUID:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/ata/VehicleService/vehicle_service/exception/VehicleNotFoundException.java:4:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/exception/VehicleNotFoundException.java:4:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/ata/VehicleService/vehicle_service/vechicleentity/VehicleEntity.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/ata/VehicleService/vehicle_service/vechicleentity/VehicleEntity.java:17:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/vechicleentity/VehicleEntity.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/vechicleentity/VehicleEntity.java:20:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/ata/VehicleService/vehicle_service/vechicleentity/VehicleEntity.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/vechicleentity/VehicleEntity.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/vechicleentity/VehicleEntity.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/ata/VehicleService/vehicle_service/vehiclerepository/VehicleRepository.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/ata/VehicleService/vehicle_service/vehiclerepository/VehicleRepository.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/ata/VehicleService/vehicle_service/VehicleServiceApplicationTests.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/ata/VehicleService/vehicle_service/VehicleServiceApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/ata/VehicleService/vehicle_service/VehicleServiceApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/ata/VehicleService/vehicle_service/VehicleServiceApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/ata/VehicleService/vehicle_service/VehicleServiceApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
